@@ -1,0 +1,450 @@
+<resources>
+    <string name="app_name">GoingRogueDesign</string>
+    <string name="title_home">Home</string>
+    <string name="title_calculator">Calculator</string>
+    <string name="title_projects">Projects</string>
+    <string name="title_drawings">Drawings</string>
+    <string name="title_account">Account</string>
+
+    <string name="home_intro">
+        Whether you\'re working on a Residential or Commercial project, GoingRogue Design can provide you with excellent Interior and Exterior Design, Purchasing, Budgeting and Project Management from idea conception through to final construction.
+    </string>
+
+    <string-array name="service_titles">
+        <item>Interior Design</item>
+        <item>Exterior Design</item>
+        <item>Conceptual Design</item>
+        <item>Purchasing</item>
+        <item>Project Management</item>
+        <item>Owner Representative</item>
+    </string-array>
+
+    <string-array name="interior_design_services">
+        <item>Professional Drawings</item>
+        <item>Color Selection</item>
+        <item>Finish Selection</item>
+        <item>Fixture Selection</item>
+        <item>Furniture Selection</item>
+    </string-array>
+
+    <string-array name="exterior_design_services">
+        <item>Professional Drawings</item>
+        <item>Color Selection</item>
+        <item>Material Selection</item>
+    </string-array>
+
+    <string-array name="conceptual_design_services">
+        <item>Hand Drawings</item>
+        <item>Renderings</item>
+        <item>Color Boards</item>
+        <item>Dream Boards</item>
+        <item>Building Models</item>
+    </string-array>
+
+    <string-array name="purchasing_services">
+        <item>Purchasing of Furniture and Finishes</item>
+        <item>Coordinating Install</item>
+        <item>Vendor Coordination</item>
+    </string-array>
+
+    <string-array name="project_management_services">
+        <item>Assisting in General Contractor and Sub-Contractor Selection</item>
+        <item>Budgeting</item>
+    </string-array>
+
+    <string-array name="owner_representative_services">
+        <item>Coordinating Meetings, Emails, Communication, Payments and anything else you may need!</item>
+        <item>Working with Many Hotel Brands</item>
+    </string-array>
+
+    <string-array name="state_arrays">
+        <item>Alabama</item>
+        <item>Alaska</item>
+        <item>Arizona</item>
+        <item>Arkansas</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Connecticut</item>
+        <item>Delaware</item>
+        <item>District of Columbia</item>
+        <item>Florida</item>
+        <item>Georgia</item>
+        <item>Hawaii</item>
+        <item>Idaho</item>
+        <item>Illinois</item>
+        <item>Indiana</item>
+        <item>Iowa</item>
+        <item>Kansas</item>
+        <item>Kentucky</item>
+        <item>Louisiana</item>
+        <item>Maine</item>
+        <item>Maryland</item>
+        <item>Massachusetts</item>
+        <item>Michigan</item>
+        <item>Minnesota</item>
+        <item>Mississippi</item>
+        <item>Missouri</item>
+        <item>Montana</item>
+        <item>Nebraska</item>
+        <item>Nevada</item>
+        <item>New Hampshire</item>
+        <item>New Jersey</item>
+        <item>New Mexico</item>
+        <item>New York</item>
+        <item>North Carolina</item>
+        <item>North Dakota</item>
+        <item>Ohio</item>
+        <item>Oklahoma</item>
+        <item>Oregon</item>
+        <item>Pennsylvania</item>
+        <item>Rhode Island</item>
+        <item>South Carolina</item>
+        <item>South Dakota</item>
+        <item>Tennessee</item>
+        <item>Texas</item>
+        <item>Utah</item>
+        <item>Vermont</item>
+        <item>Virginia</item>
+        <item>Washington</item>
+        <item>West Virginia</item>
+        <item>Wisconsin</item>
+        <item>Wyoming</item>
+        <item>Puerto Rico</item>
+        <item>Virgin Islands</item>
+        <item>Northern Mariana Islands</item>
+        <item>Guam</item>
+        <item>American Samoa</item>
+        <item>Palau</item>
+    </string-array>
+
+    <string-array name="contractor_type_arrays">
+        <item>type 1</item>
+        <item>type 2</item>
+        <item>type 3</item>
+        <item>type 4</item>
+        <item>type 5</item>
+
+    </string-array>
+    <string name="title_activity_project_detail">ProjectDetailActivity</string>
+    <string name="tab_text_0">Drawing</string>
+    <string name="tab_text_1">Document</string>
+    <string name="tab_text_2">Calendar</string>
+    <string name="tab_text_3">Invoice</string>
+    <string name="tab_text_4">Task</string>
+    <string name="tab_text_5">Note</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="random_hotel_names">
+        <item>	Moody Moon	</item>
+        <item>	Mandarin Oriental	</item>
+        <item>	Four Seasons Hotel	</item>
+        <item>	Knights Inn	</item>
+        <item>	Radisson Hotel	</item>
+        <item>	Classio Hotel	</item>
+        <item>	The Bay Club	</item>
+        <item>	Travelodge	</item>
+        <item>	Jack Summer Inn	</item>
+        <item>	Hotel Grizzly	</item>
+        <item>	Twice Happy Resorts	</item>
+        <item>	Hotel Agoura	</item>
+        <item>	Hotel Crossroads	</item>
+        <item>	Grand Hotel	</item>
+        <item>	The Bristol Hotel	</item>
+        <item>	Hollywood Sands	</item>
+        <item>	The Gourmet Resorts	</item>
+        <item>	Cotton House Hotel	</item>
+        <item>	The Watson Hotel	</item>
+        <item>	Pacifica Hotel	</item>
+        <item>	Hotel Barry Love	</item>
+        <item>	Cosmopolitan Hotel	</item>
+        <item>	White Dove Hotels	</item>
+        <item>	Reefs Resort Club	</item>
+        <item>	Beachwalk Resort	</item>
+        <item>	Fountain Fun	</item>
+        <item>	Hotel Vitale	</item>
+        <item>	Cable Car Hotel	</item>
+        <item>	The Mosser Hotel	</item>
+        <item>	Redstone	</item>
+        <item>	Hotel Vitale	</item>
+        <item>	Land’s End Resort	</item>
+        <item>	Manchester Grand Hyatt	</item>
+        <item>	Palace Hotel	</item>
+        <item>	Paradise Point Resort	</item>
+        <item>	Kemp Mill	</item>
+    </string-array>
+
+    <string-array name="random_first_names">
+        <item>	Theodore	</item>
+        <item>	Quentin	</item>
+        <item>	Eliezer	</item>
+        <item>	Howard	</item>
+        <item>	Kamron	</item>
+        <item>	Jasiah	</item>
+        <item>	Rylan	</item>
+        <item>	Samuel	</item>
+        <item>	Dane	</item>
+        <item>	Dominick	</item>
+        <item>	Jaylon	</item>
+        <item>	Rhett	</item>
+        <item>	Zackary	</item>
+        <item>	Jovanny	</item>
+        <item>	Semaj	</item>
+        <item>	Spencer	</item>
+        <item>	Douglas	</item>
+        <item>	Julian	</item>
+        <item>	Zaire	</item>
+        <item>	Arnav	</item>
+        <item>	Frank	</item>
+        <item>	Cash	</item>
+        <item>	Cullen	</item>
+        <item>	Reilly	</item>
+        <item>	Javon	</item>
+        <item>	Peter	</item>
+        <item>	Oswaldo	</item>
+        <item>	Joey	</item>
+        <item>	Joshua	</item>
+        <item>	Denzel	</item>
+        <item>	Keegan	</item>
+        <item>	Tripp	</item>
+        <item>	Skyler	</item>
+        <item>	Elias	</item>
+        <item>	Christian	</item>
+        <item>	Izaiah	</item>
+        <item>	Immanuel	</item>
+        <item>	Pierce	</item>
+        <item>	Jabari	</item>
+        <item>	Ahmed	</item>
+        <item>	Adan	</item>
+        <item>	Nico	</item>
+        <item>	Jaidyn	</item>
+        <item>	Jesus	</item>
+        <item>	Jefferson	</item>
+        <item>	Kingston	</item>
+        <item>	Erick	</item>
+        <item>	Xander	</item>
+        <item>	Beau	</item>
+        <item>	Jair	</item>
+        <item>	Callum	</item>
+        <item>	Armani	</item>
+        <item>	Ahmad	</item>
+        <item>	Braxton	</item>
+        <item>	Blaine	</item>
+        <item>	Jairo	</item>
+        <item>	Esteban	</item>
+        <item>	Bronson	</item>
+        <item>	Miguel	</item>
+        <item>	Chance	</item>
+        <item>	Javion	</item>
+        <item>	Slade	</item>
+        <item>	Cannon	</item>
+        <item>	Davis	</item>
+        <item>	Demarcus	</item>
+        <item>	Blaze	</item>
+        <item>	Darnell	</item>
+        <item>	Zane	</item>
+        <item>	Max	</item>
+        <item>	Adolfo	</item>
+        <item>	Deon	</item>
+        <item>	Marcus	</item>
+        <item>	Sincere	</item>
+        <item>	Antony	</item>
+        <item>	Augustus	</item>
+        <item>	Brycen	</item>
+        <item>	Caiden	</item>
+        <item>	Mario	</item>
+        <item>	Jamal	</item>
+        <item>	Larry	</item>
+        <item>	Brooks	</item>
+        <item>	Joseph	</item>
+        <item>	Uriah	</item>
+        <item>	Landen	</item>
+        <item>	Elliot	</item>
+        <item>	Mike	</item>
+        <item>	Dillon	</item>
+        <item>	Roy	</item>
+        <item>	Lane	</item>
+        <item>	Franco	</item>
+        <item>	Matthew	</item>
+        <item>	Elijah	</item>
+        <item>	Myles	</item>
+        <item>	Shamar	</item>
+        <item>	Jagger	</item>
+        <item>	Malaki	</item>
+        <item>	Kyson	</item>
+        <item>	Brayan	</item>
+        <item>	Gustavo	</item>
+        <item>	Terrence	</item>
+    </string-array>
+
+    <string-array name="random_last_names">
+        <item>	Huffman	</item>
+        <item>	Cruz	</item>
+        <item>	Bennett	</item>
+        <item>	Burke	</item>
+        <item>	Grimes	</item>
+        <item>	May	</item>
+        <item>	Trujillo	</item>
+        <item>	Andrade	</item>
+        <item>	Archer	</item>
+        <item>	Gutierrez	</item>
+        <item>	Salinas	</item>
+        <item>	Wilkerson	</item>
+        <item>	Mcneil	</item>
+        <item>	Singh	</item>
+        <item>	Hahn	</item>
+        <item>	Shepard	</item>
+        <item>	Yoder	</item>
+        <item>	Hensley	</item>
+        <item>	Madden	</item>
+        <item>	Spence	</item>
+        <item>	Underwood	</item>
+        <item>	Little	</item>
+        <item>	Mclaughlin	</item>
+        <item>	Avila	</item>
+        <item>	Crawford	</item>
+        <item>	Chen	</item>
+        <item>	Stone	</item>
+        <item>	Mullins	</item>
+        <item>	Stein	</item>
+        <item>	Cline	</item>
+        <item>	Vincent	</item>
+        <item>	Santiago	</item>
+        <item>	Boyer	</item>
+        <item>	Finley	</item>
+        <item>	Franklin	</item>
+        <item>	Olsen	</item>
+        <item>	Kerr	</item>
+        <item>	Michael	</item>
+        <item>	Henry	</item>
+        <item>	Berry	</item>
+        <item>	Snyder	</item>
+        <item>	Sawyer	</item>
+        <item>	Gilbert	</item>
+        <item>	Sims	</item>
+        <item>	Randolph	</item>
+        <item>	Rojas	</item>
+        <item>	Strickland	</item>
+        <item>	Sullivan	</item>
+        <item>	Freeman	</item>
+        <item>	Potts	</item>
+        <item>	Olson	</item>
+        <item>	Mcintyre	</item>
+        <item>	Noble	</item>
+        <item>	Hoffman	</item>
+        <item>	Hancock	</item>
+        <item>	Small	</item>
+        <item>	Calhoun	</item>
+        <item>	Ball	</item>
+        <item>	Hart	</item>
+        <item>	Barr	</item>
+        <item>	Bernard	</item>
+        <item>	Mahoney	</item>
+        <item>	Montes	</item>
+        <item>	Gates	</item>
+        <item>	Case	</item>
+        <item>	Banks	</item>
+        <item>	Perez	</item>
+        <item>	Fuller	</item>
+        <item>	Buckley	</item>
+        <item>	Graham	</item>
+        <item>	Morrow	</item>
+        <item>	Mcfarland	</item>
+        <item>	Huber	</item>
+        <item>	French	</item>
+        <item>	Bonilla	</item>
+        <item>	Flynn	</item>
+        <item>	Evans	</item>
+        <item>	Carlson	</item>
+        <item>	Sweeney	</item>
+        <item>	Hobbs	</item>
+        <item>	Hampton	</item>
+        <item>	Ross	</item>
+        <item>	Gilmore	</item>
+        <item>	Manning	</item>
+        <item>	Adams	</item>
+        <item>	Villegas	</item>
+        <item>	Reyes	</item>
+        <item>	Mayer	</item>
+        <item>	Hammond	</item>
+        <item>	Mayo	</item>
+        <item>	Gibbs	</item>
+        <item>	Horn	</item>
+        <item>	Castaneda	</item>
+        <item>	Blake	</item>
+        <item>	Hogan	</item>
+        <item>	Fry	</item>
+        <item>	Yang	</item>
+        <item>	Padilla	</item>
+        <item>	Newman	</item>
+        <item>	Roman	</item>
+    </string-array>
+    <string-array name="random_city_names">
+        <item>	Omaha	</item>
+        <item>	Denver	</item>
+        <item>	Tokeland	</item>
+        <item>	Rigby	</item>
+        <item>	Osceola Mills	</item>
+        <item>	Goldenrod	</item>
+        <item>	Harrold	</item>
+        <item>	Marty	</item>
+        <item>	Rodney Village	</item>
+        <item>	Richmondville	</item>
+        <item>	Trafalgar	</item>
+        <item>	Big Beaver	</item>
+        <item>	Housatonic	</item>
+        <item>	Brush	</item>
+        <item>	Wataga	</item>
+        <item>	Gardnertown	</item>
+        <item>	Stoneville	</item>
+        <item>	Wabash	</item>
+        <item>	Quamba	</item>
+        <item>	Dillsboro	</item>
+        <item>	Eureka Roadhouse	</item>
+        <item>	Wolbach	</item>
+        <item>	Montrose	</item>
+        <item>	Indian Springs	</item>
+        <item>	Morrison Bluff	</item>
+        <item>	Fleischmanns	</item>
+        <item>	Mulhall	</item>
+        <item>	Penns Grove	</item>
+        <item>	El Paraiso	</item>
+        <item>	Seabrook	</item>
+        <item>	Keams Canyon	</item>
+        <item>	Gila Bend	</item>
+        <item>	Caroline	</item>
+        <item>	Sugden	</item>
+        <item>	Fond du Lac	</item>
+        <item>	Kemp Mill	</item>
+        <item>	Spreckels	</item>
+        <item>	Myerstown	</item>
+        <item>	Avinger	</item>
+        <item>	Walhalla	</item>
+        <item>	Galloway	</item>
+        <item>	Howards Grove	</item>
+        <item>	Mammoth	</item>
+        <item>	Franklin Square	</item>
+        <item>	Northbrook	</item>
+        <item>	Omar	</item>
+        <item>	French Camp	</item>
+        <item>	Paw Paw Lake	</item>
+        <item>	Arbutus	</item>
+        <item>	Buford	</item>
+    </string-array>
+
+    <string-array name="random_content">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consequat efficitur ante, vitae sagittis purus gravida in. Sed in lectus in tellus facilisis feugiat a in nunc. Etiam ac massa pellentesque, tempor neque in, volutpat ipsum. Etiam laoreet rutrum nisi, sit amet scelerisque nulla placerat ac. Phasellus id tortor eget arcu lacinia sollicitudin. Vestibulum posuere ligula eu accumsan malesuada. In nunc lectus, scelerisque at viverra sed, rhoncus in quam. Aenean mattis libero vel odio ornare scelerisque. Vivamus eu eleifend magna. Nunc mattis odio massa, nec molestie ligula cursus ac. Donec ornare sit amet purus vel mattis. Nam sodales venenatis sapien ut vulputate. Morbi sit amet tortor aliquet, dignissim nisi eget, semper enim. Vivamus nec finibus eros, ut rhoncus est.</item>
+        <item>Suspendisse scelerisque et libero sit amet elementum. Pellentesque eu dictum est. Pellentesque faucibus sed nunc ac feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse bibendum justo in tellus aliquet vestibulum. Nulla eget sapien bibendum, ultrices arcu sed, feugiat quam. Donec at vulputate ipsum, at scelerisque eros.</item>
+        <item>Integer ornare dignissim massa, sit amet lacinia nisl luctus at. In malesuada fringilla justo, ut auctor arcu malesuada id. Curabitur ut est rutrum, cursus sem finibus, ultrices ligula. Fusce dictum mattis velit, ut convallis dui mollis eu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum malesuada efficitur ligula a porttitor. Integer mollis enim a mi pulvinar, vel mollis justo volutpat. Vivamus eu velit pretium, eleifend tellus a, accumsan ex. Pellentesque eget cursus leo. Sed sit amet fermentum turpis, vel sodales nunc. In volutpat elementum dictum.</item>
+        <item>Nam vulputate metus in lectus tincidunt, a fringilla elit euismod. Nunc augue nunc, maximus at felis non, iaculis dignissim diam. Quisque maximus eu sem elementum aliquam. Fusce eu nulla mauris. Quisque nec tincidunt odio. Nullam fermentum convallis neque eget lacinia. Donec vehicula, purus ut rutrum efficitur, ligula ante rutrum est, et euismod dolor nunc ut tellus. Nam a feugiat risus. Proin sagittis lorem ac velit scelerisque, at varius mauris congue. Curabitur eu dolor eu nulla finibus euismod. Vivamus sit amet laoreet magna. Integer sit amet pharetra mauris. Nulla nibh nunc, posuere a mauris sed, laoreet tempor massa. Cras metus eros, porta eu ex sit amet, vestibulum interdum orci.</item>
+        <item>Suspendisse tincidunt ligula quis lorem accumsan pulvinar. Aliquam arcu purus, ullamcorper sed lacus nec, pretium lacinia lacus. Ut a odio libero. Sed iaculis erat ligula, eu tincidunt tortor vulputate et. Integer tincidunt eros nunc, commodo feugiat nunc efficitur finibus. Ut sapien libero, lobortis in congue et, efficitur a ligula. Donec varius varius libero, sed congue quam pharetra sed. Ut mi augue, condimentum quis suscipit id, rutrum ac dui.</item>
+        <item>Proin sit amet ante varius, dapibus dui vitae, lacinia ex. Morbi luctus sem justo, non sollicitudin dolor ultrices sed. In eu risus sit amet nisi tincidunt faucibus. Phasellus sit amet commodo lacus. Praesent ut ante at ipsum vulputate lacinia sit amet in odio. Sed eget egestas nunc, ut tincidunt elit. Duis vehicula convallis orci. Sed finibus justo libero, sed iaculis lectus tincidunt id. Sed tincidunt erat at enim interdum, et volutpat nulla consectetur. Curabitur nulla magna, vestibulum at porta a, iaculis non dui. Vivamus at nisi rhoncus dui fermentum sollicitudin et ac nulla. Curabitur dolor nibh, congue id scelerisque ac, aliquet ac nisl. Morbi id luctus tortor, et dapibus turpis. Fusce in porttitor arcu, eget mattis nibh. Sed at massa non magna tempus fringilla.</item>
+        <item>Pellentesque in ornare erat. Aliquam sed vestibulum neque. Morbi eget dapibus nisi. Etiam maximus ligula risus. Aenean convallis sit amet felis nec porttitor. Duis sit amet nunc sed justo venenatis placerat quis sit amet turpis. Integer viverra luctus ex. Ut fermentum diam felis, ut interdum est ultrices vitae. Phasellus id bibendum libero. Suspendisse ut est mauris. Integer orci enim, iaculis nec lobortis eu, aliquam eget ligula. Aenean vel euismod urna, ac accumsan nisl. Cras ut justo a libero egestas efficitur a ac neque. Suspendisse vel interdum nunc.</item>
+        <item>Vivamus molestie mollis sollicitudin. Pellentesque imperdiet, felis eu tristique vestibulum, mi lorem aliquet tellus, vel venenatis tortor magna eu diam. Aenean semper dapibus elit eget blandit. In lacinia et odio et dignissim. Sed quis nulla placerat, posuere justo et, feugiat nunc. Cras elementum tincidunt dui, sit amet suscipit dui sollicitudin id. Ut finibus nisl ac sapien cursus consequat. Donec id leo non orci maximus porta vel a leo.</item>
+        <item>Maecenas vitae lectus at urna hendrerit sollicitudin in at sapien. Nullam iaculis ipsum nec fringilla porta. Suspendisse convallis eros at justo fringilla molestie. Quisque imperdiet sapien in urna pretium, nec ullamcorper nulla facilisis. Ut dignissim interdum metus nec ultricies. Aenean ut justo sed lacus sollicitudin sollicitudin. Praesent sit amet nunc eu justo lacinia pellentesque. Suspendisse est mi, lacinia sed lorem eu, egestas tincidunt massa. Aliquam aliquam purus quis justo vestibulum fringilla. Sed imperdiet augue ut nibh fringilla pharetra. Sed vitae orci eget ligula sagittis venenatis. Pellentesque venenatis quam mi. Mauris sollicitudin tellus et turpis egestas, aliquet convallis justo gravida. Fusce lorem ligula, volutpat ac tellus vitae, commodo cursus nulla. Sed finibus bibendum orci at rutrum. Aenean in dictum elit.</item>
+        <item>Pellentesque id dolor ultricies, tincidunt enim rutrum, laoreet metus. Integer quam nunc, ultricies id augue vel, molestie cursus metus. Duis scelerisque ullamcorper velit eget fermentum. Phasellus orci lectus, varius vitae lorem ac, mattis sollicitudin ante. Sed eleifend, sapien et fermentum sodales, erat est tristique lectus, sit amet venenatis purus augue vel justo. Vestibulum sagittis gravida erat eu interdum. Sed tincidunt nulla congue tortor lacinia sollicitudin. Aliquam finibus, ligula vel ullamcorper vestibulum, orci ex hendrerit quam, sed molestie nisi sem ut lectus. Proin tristique ac nisl ut imperdiet. Duis ac dui convallis, tempor dui ut, posuere tellus. Mauris aliquet nisl vel vehicula vestibulum. Praesent id tellus sed quam tincidunt sollicitudin vitae nec mauris. Duis sollicitudin commodo orci volutpat feugiat. Duis congue commodo leo, vitae volutpat mauris vehicula vitae. Aliquam erat volutpat.</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
